@@ -18,7 +18,7 @@ These events are supported by NRAO/NAASC ([ALMA Ambassadors Program](https://sci
 
 ### Introduction
 >1.1. Basics of Radio Interferometry [[slides](docs/)] <br>
- 1.2. ALMA Science and Capabilities [[slides](docs/)]
+ 1.2. ALMA Science and Capabilities [[slides](docs/1.2_ALMA-Science-and-Capabilities.pdf)]
 
 #
 
