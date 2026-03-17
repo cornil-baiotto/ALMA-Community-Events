@@ -17,18 +17,18 @@ These events are supported by NRAO/NAASC ([ALMA Ambassadors Program](https://sci
 #
 
 ### Introduction
->1.1. Basics of Radio Interferometry <br>
- 1.2. ALMA Science and Capabilities
+>1.1. Basics of Radio Interferometry [[slides](docs/)] <br>
+ 1.2. ALMA Science and Capabilities [[slides](docs/)]
 
 #
 
 ### ALMA Proposal Preparation
->2.1. Cycle 13 Capabilities <br>
- 2.2. ALMA Science Archive <br>
- 2.3. Proposal Preparation <br>
- 2.4. Proposal Review Process <br>
- 2.5. Mock Observations <br>
- 2.6. Observing Tool (OT)
+>2.1. Cycle 13 Capabilities [[slides](docs/)] <br>
+ 2.2. ALMA Science Archive [[slides](docs/), [link](https://almascience.nrao.edu/aq/?result_view=observations)] <br>
+ 2.3. Proposal Preparation [[slides](docs/)] <br>
+ 2.4. Proposal Review Process [[slides](docs/), [link](https://almascience.nrao.edu/proposing/alma-proposal-review/guidelines-for-reviewers)] <br>
+ 2.5. Mock Observations [[slides](docs/), [code](scripts/)] <br>
+ 2.6. Observing Tool (OT) [[slides](docs/), [link]([link/](https://almascience.eso.org/proposing/observing-tool))]
 
 #
 
