@@ -24,11 +24,11 @@ These events are supported by NRAO/NAASC ([ALMA Ambassadors Program](https://sci
 
 ### ALMA Proposal Preparation
 >2.1. Cycle 13 Capabilities [[slides](docs/)] <br>
- 2.2. ALMA Science Archive [[slides](docs/), [link](https://almascience.nrao.edu/aq/?result_view=observations)] <br>
+ 2.2. ALMA Science Archive [[slides](docs/)] <br>
  2.3. Proposal Preparation [[slides](docs/)] <br>
- 2.4. Proposal Review Process [[slides](docs/), [link](https://almascience.nrao.edu/proposing/alma-proposal-review/guidelines-for-reviewers)] <br>
+ 2.4. Proposal Review Process [[slides](docs/)] <br>
  2.5. Mock Observations [[slides](docs/), [code](scripts/)] <br>
- 2.6. Observing Tool (OT) [[slides](docs/), [link]([link/](https://almascience.eso.org/proposing/observing-tool))]
+ 2.6. Observing Tool (OT) [[slides](docs/)]
 
 #
 
