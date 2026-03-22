@@ -1,6 +1,6 @@
 ## 🌌 Welcome
 
-Repository: `cornil-baiotto/ALMA-community-events`
+Repository: `cornil-baiotto/ALMA-Community-Events`
 
 ---
 
