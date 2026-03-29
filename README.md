@@ -6,8 +6,6 @@ Repository: `cornil-baiotto/ALMA-Community-Events`
 
 ### ALMA Cycle 13 Community Events in Chile
 
-Key words: ALMA Observatory, radio interferometry
-
 All material (slides, codes) presented during the following workshops will be uploaded to this repository.
 
 >- ALMA Proposal Preparation, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
@@ -53,3 +51,6 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 >- Data reduction [cheat sheet](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf)
 >- Download [CARTA v5.1](https://cartavis.org/)
 >- [ALMA schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link)
+
+
+Key words: astrophysics: millimeter and submillimeter observations – radio interferometry: ALMA Observatory
