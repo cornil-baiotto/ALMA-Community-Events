@@ -1,10 +1,4 @@
-## 🌌 Welcome
-
-Repository: `cornil-baiotto/ALMA-Community-Events`
-
----
-
-### ALMA Cycle 13 Community Events in Chile
+## 🌌 ALMA Cycle 13 Community Events in Chile
 
 All material (slides, codes) presented during the following workshops will be uploaded to this repository.
 
