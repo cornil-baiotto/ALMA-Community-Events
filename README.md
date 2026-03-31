@@ -2,8 +2,6 @@
 
 Repository: `cornil-baiotto/ALMA-Community-Events`
 
-Topics: `astrophysics` `millimeter` `submillimeter` `radio interferometry` `ALMA Observatory` `data reduction`
-
 ---
 
 ### ALMA Cycle 13 Community Events in Chile
