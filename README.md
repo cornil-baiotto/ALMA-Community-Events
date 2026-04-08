@@ -21,7 +21,7 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
  2.2. ALMA Science Archive [[slides](docs/2.2_ALMA-Science-Archive.pdf)] <br>
  2.3. Proposal Preparation [[slides](docs/2.3_ALMA-Proposal-Preparation.pdf)] <br>
  2.4. Proposal Review Process [[slides](docs/2.4_ALMA-DPR-Process.pdf)] <br>
- 2.5. Mock Observations [[slides](docs/2.5_ALMA-Mock-Observations.pdf), [code](docs/)] <br>
+ 2.5. Mock Observations [[slides](docs/2.5_ALMA-Mock-Observations.pdf), [code](docs/ALMA-Mock-Obs.ipynb)] <br>
  2.6. Observing Tool (OT) [[slides](docs/2.6_ALMA-Observing-Tool.pdf)]
 
 #
